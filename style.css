@@ -1,0 +1,19 @@
+div {
+    height: 100px;
+    background-color: turquoise;
+}
+
+header {
+    height: 200px;
+    background-color: bisque;
+}
+
+main {
+    height: 400px;
+    background-color: tan;
+}
+
+footer {
+    height: 200px;
+    background-color: thistle;
+}
