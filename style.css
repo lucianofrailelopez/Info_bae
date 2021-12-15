@@ -21,6 +21,19 @@ header {
     margin-top: 10px;
 }
 
+.menu-container {
+    display: inline;
+}
+
+.menu {
+    display: inline;
+    float: right;
+    margin-top: 18px;
+    margin-left: 59px;
+    font-family: Raleway,sans-serif;
+    font-weight: 700;
+}
+
 
 main {
     width: 1164px;
