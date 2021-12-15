@@ -1,19 +1,74 @@
-div {
+.containerone {
     height: 100px;
-    background-color: turquoise;
+    background-color: white;
+}
+
+.advertising {
+    height: 60px;
+    padding: 7px 227px;
 }
 
 header {
-    height: 200px;
-    background-color: bisque;
+    height: 54px;
+    padding: 0 130px;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgrey;
+    background-color: white;
 }
 
+.icon {
+    height: 34px;
+    margin-top: 10px;
+}
+
+
 main {
-    height: 400px;
-    background-color: tan;
+    width: 1164px;
+    height: 658px;
+    padding: 12px 130px;
+    background-color: white;
+}
+
+section {
+    width: 919px;
+    height: 659px;
+    float: left;
+}
+
+.section-first {
+    width: 919px;
+    height: 170px;
+    border-bottom: 1px solid gray;
+    background-color: white;
+}
+
+.section-second {
+    width: 919px;
+    height: 489px;
+    border-bottom: 1px solid gray;
+    background-color: white;
+}
+
+aside {
+    width: 245px;
+    height: 659px;
+    float: right;
+    background-color: white;
 }
 
 footer {
-    height: 200px;
-    background-color: thistle;
+    height: 450px;
+    padding: 12px 130px;
+    background-color: #f7f8f9;
+}
+
+.top-footer {
+    height: 54px;
+    border-bottom: 1px solid gray;
+    background-color: #f7f8f9;
+}
+
+.bottom-footer {
+    height: 378px;
+    background-color: #f7f8f9;
 }
