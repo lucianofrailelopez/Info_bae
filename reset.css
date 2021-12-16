@@ -2,3 +2,60 @@ a {
     text-decoration: none;
     color: black;
 }
+
+section div .fecha {
+    width: 343px;
+    height: 1px;
+    float: left;
+    margin-top: 16px;
+    background-color: black;
+}
+
+.dia {
+    margin-top: 7px;
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+    color: #666;
+}
+
+.day {
+    width: 343px;
+    height: 1px;
+    float: right;
+    margin-top: 16px;
+    background-color: black;
+}
+
+.dolar {
+    margin: 1px;
+    font-size: 12px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+.precio {
+    font-size: 30px;
+    margin: 8px;
+    font-family: Arial,Helvetica,sans-serif;
+    color: #1f1f1f;
+}
+
+.titulo-noticia {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 36px;
+}
+
+.text-noticia {
+    margin-left: 10px;
+    font-size: 19px;
+}
+
+
+.titulo-second {
+    font-size: 20px;
+}
+
+.titulo-third {
+    font-size: 20px;
+}
