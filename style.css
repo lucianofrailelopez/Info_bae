@@ -1,19 +1,13 @@
 .containerone {
-    height: 100px;
-    background-color: white;
+    padding: 10px 0;
+    text-align: center;
 }
 
-.advertising {
-    height: 60px;
-    padding: 7px 227px;
-}
 
 header {
-    height: 54px;
     padding: 0 130px;
     border-top: 1px solid lightgray;
     border-bottom: 1px solid lightgrey;
-    background-color: white;
 }
 
 .icon {
@@ -23,36 +17,32 @@ header {
 
 .menu-container {
     display: inline;
+    float: right;
+    height: 12px;
 }
 
 .menu {
     display: inline;
-    float: right;
-    margin-top: 18px;
-    margin-right: 59px;
+    margin-right: 56px;
     font-family: Raleway,sans-serif;
     font-weight: 700;
 }
 
 
 main {
-    width: 1164px;
-    height: 807px;
     padding: 12px 130px;
-    background-color: white;
+    content: "";
+    clear: both;
+    display: table;
 }
 
 section {
-    width: 919px;
-    height: 814px;
     float: left;
 }
 
 .section-first {
     width: 919px;
-    height: 170px;
     border-bottom: 1px solid gray;
-    background-color: white;
 }
 
 .logo-advertising {
@@ -78,20 +68,18 @@ section {
 
 .list-infobae {
     display: inline;
-    text-align: center;
     margin-left: 100px;
 }
 
 .list-info {
     display: inline;
-    text-align: center;
     margin: 5px;
     font-family: Raleway,sans-serif;
     font-weight: 700;
 }
 
 .menu-info {
-    display: inline;
+    margin: 12px;
     text-align: center;
 }
 
@@ -104,10 +92,7 @@ section {
 }
 
 .section-second {
-    width: 919px;
     height: 620px;
-    border-bottom: 1px solid gray;
-    background-color: white;
 }
 
 .list-dolar {
@@ -127,47 +112,41 @@ section {
 }
 
 .noticia-first {
-    width: 613px;
+    width: 601px;
     height: 542px;
     float: left;
 }
 
 .img-politica {
-    width: 541px;
-    height: 308px;
+    width: 583px;
+    height: 358px;
     margin-top: -2px;
     margin-left: 10px;
+    border-bottom: 1px solid;
 }
 
 .noticia-second {
     width: 306px;
-    height: 542px;
     float: right;
 }
 
 .noticia-fourth {
-    width: 306px;
-    height: 259px;
-    margin-top: -4px;
     border-bottom: 1px solid gray;
 }
 
 .img-second {
     width: 304px;
     height: 160px;
-    margin-top: -11px;
 }
 
 .noticia-fiveth {
-    width: 306px;
-    height: 271px;
-    margin-top: -13px;
+    border-bottom: 1px solid;
 }
 
 .img-third {
     width: 304px;
     height: 165px;
-    margin-top: -19px;
+    margin-top: -2px;
 }
 
 
