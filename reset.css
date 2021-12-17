@@ -2,6 +2,11 @@
     height: 60px;
 }
 
+.icon {
+    height: 34px;
+    margin-top: 10px;
+}
+
 .icon-2 {
     display: inline-block;
     margin-top: -4px;
@@ -67,4 +72,44 @@ section div .fecha {
 
 .titulo-third {
     font-size: 20px;
+}
+
+.redes-link {
+    display: inline-block;
+}
+
+.main-list{
+    list-style: none;
+    margin-left: 1px;
+}
+
+.first {
+    display: inline-block;
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-family: Libre Franklin,sans-serif;
+    font-weight: 600;
+    color: #1f1f1f;
+}
+
+.second {
+    display: inline-block;
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-family: Libre Franklin,sans-serif;
+    color: #1f1f1f;
+}
+
+
+.container-footer {
+    float: left;
+}
+
+.container-foot {
+    float: right;
+}
+
+.derechos {
+    font-size: 14px;
+    font-weight: 400;
 }
